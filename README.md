@@ -1,5 +1,6 @@
 # Olá, Mundo!
  Primeiro repositório
  
- Essa linha
+ Todas as pessoas deveriam aprender a programar
+ Ajuda a pensar melhor.. 
  
